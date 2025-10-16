@@ -56,3 +56,25 @@
 2025-10-15 21:03:06 [31merror[39m [31m404 - Can't find /teacher on this server This End Point not Exists ! - /teacher - GET - ::1[39m
 2025-10-15 21:04:14 [31merror[39m [31m404 - Can't find /teacher on this server This End Point not Exists ! - /teacher - GET - ::1[39m
 2025-10-16 09:36:33 [31merror[39m [31mRedis connection error : read ECONNRESET[39m
+2025-10-16 10:54:20 [31merror[39m [31m404 - Can't find /api/teachers on this server This End Point not Exists ! - /api/teachers - POST - ::1[39m
+2025-10-16 10:54:27 [31merror[39m [31m404 - Can't find /api/teacher on this server This End Point not Exists ! - /api/teacher - POST - ::1[39m
+2025-10-16 10:54:35 [31merror[39m [31m404 - Can't find /api/teacher on this server This End Point not Exists ! - /api/teacher - POST - ::1[39m
+2025-10-16 10:55:02 [31merror[39m [31m404 - Can't find /api/teacher/create on this server This End Point not Exists ! - /api/teacher/create - GET - ::1[39m
+2025-10-16 10:55:13 [31merror[39m [31m404 - Can't find /api/teacher/create on this server This End Point not Exists ! - /api/teacher/create - GET - ::1[39m
+2025-10-16 11:08:32 [31merror[39m [31m404 - Can't find /api/teacher/create on this server This End Point not Exists ! - /api/teacher/create - POST - ::1[39m
+2025-10-16 11:09:20 [31merror[39m [31m404 - Can't find /api/teachers/create on this server This End Point not Exists ! - /api/teachers/create - POST - ::1[39m
+2025-10-16 11:09:27 [31merror[39m [31m404 - Can't find /api/teachers/create on this server This End Point not Exists ! - /api/teachers/create - POST - ::1[39m
+2025-10-16 11:09:31 [31merror[39m [31m404 - Can't find /api/teachers/create on this server This End Point not Exists ! - /api/teachers/create - POST - ::1[39m
+2025-10-16 11:10:07 [31merror[39m [31m404 - Can't find /api/teachers/create on this server This End Point not Exists ! - /api/teachers/create - POST - ::1[39m
+2025-10-16 11:11:40 [31merror[39m [31m404 - Can't find /api/teachers/create on this server This End Point not Exists ! - /api/teachers/create - POST - ::1[39m
+2025-10-16 11:12:48 [31merror[39m [31m404 - Can't find /api/teachers on this server This End Point not Exists ! - /api/teachers - POST - ::1[39m
+2025-10-16 11:17:04 [31merror[39m [31m404 - Can't find /api/teachers/create on this server! - /api/teachers/create - POST - ::1[39m
+2025-10-16 11:18:11 [31merror[39m [31m404 - Can't find /api/teachers/create on this server! - /api/teachers/create - POST - ::1[39m
+2025-10-16 11:23:43 [31merror[39m [31m404 - Can't find /api/teachers/create on this server This End Point not Exists ! - /api/teachers/create - POST - ::1[39m
+2025-10-16 11:25:43 [31merror[39m [31m404 - Can't find /api/teachers/create on this server This End Point not Exists ! - /api/teachers/create - POST - ::1[39m
+2025-10-16 11:26:27 [31merror[39m [31m404 - Can't find /api/v1/teachers/create on this server This End Point not Exists ! - /api/v1/teachers/create - POST - ::1[39m
+2025-10-16 11:29:41 [31merror[39m [31m404 - Can't find /api/v1/teachers/create on this server This End Point not Exists ! - /api/v1/teachers/create - POST - ::1[39m
+2025-10-16 11:33:26 [31merror[39m [31m404 - Can't find /teacher/68f089fac63dd56e05dba949 on this server This End Point not Exists ! - /teacher/68f089fac63dd56e05dba949 - PUT - ::1[39m
+2025-10-16 11:33:35 [31merror[39m [31m404 - Can't find /teachers/68f089fac63dd56e05dba949 on this server This End Point not Exists ! - /teachers/68f089fac63dd56e05dba949 - PUT - ::1[39m
+2025-10-16 11:33:42 [31merror[39m [31m404 - Can't find /teacher/68f089fac63dd56e05dba949 on this server This End Point not Exists ! - /teacher/68f089fac63dd56e05dba949 - PUT - ::1[39m
+2025-10-16 11:34:18 [31merror[39m [31m404 - Can't find /teacher/68efc5517dbcb50a50a6a4fe on this server This End Point not Exists ! - /teacher/68efc5517dbcb50a50a6a4fe - PUT - ::1[39m

@@ -14,7 +14,6 @@ class TeacherController {
       });
     } catch (err) {
       if (err.code === 11000) {
-        // Duplicate key error (email/phone)
         return res
           .status(400)
           .json({ success: false, message: "Email or phone already exists" });

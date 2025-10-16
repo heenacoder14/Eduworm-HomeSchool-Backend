@@ -59,11 +59,6 @@ app.get('/health', async (req, res) => {
   }
 });
 
-// Teacher route test logging + mount
-app.use('/teacher', (req, res, next) => {
-  console.log(` /teacher route hit: ${req.method} ${req.originalUrl}`);
-  next();
-}, teacherRoutes);
 
 // API v1
 app.use('/api/v1', require('./routes'));

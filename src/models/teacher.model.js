@@ -18,9 +18,8 @@ const teacherSchema = new mongoose.Schema(
       unique: true,
     },
     subject: {
-      type: mongoose.Schema.Types.ObjectId,
-      ref: "SubjectKit", // ye reference SubjectKit ko point karega
-     required: [true, "Subject is required"]
+      type: String,
+      required: [true, "Subject is required"]
    },
     experience: {
       type: Number,
@@ -28,7 +27,7 @@ const teacherSchema = new mongoose.Schema(
       min: 0,
     },
     profileImage: {
-      type: String, // URL or path of profile image
+      type: String, 
     },
   },
   { timestamps: true }
